@@ -13,7 +13,6 @@ There is no tutorial, one of the challengenges is figuring out the rules by your
 
 ## Screenshots
 
-<img src=https://github.com/Aranor28/Draw/blob/master/img/level1.png>
-<img src=https://github.com/Aranor28/Draw/blob/master/img/level3.png>
-<img src=https://github.com/Aranor28/Draw/blob/master/img/level3-solution.png>
-<img src=https://github.com/Aranor28/Draw/blob/master/img/level1-on-play.png>
+<img src=https://github.com/Aranor28/ozon/blob/master/img/level1.png>
+<img src=https://github.com/Aranor28/ozon/blob/master/img/level3.png>
+<img src=https://github.com/Aranor28/ozon/blob/master/img/level3-on-play.png>
